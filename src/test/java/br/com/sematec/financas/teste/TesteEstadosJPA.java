@@ -2,6 +2,7 @@ package br.com.sematec.financas.teste;
 
 import javax.persistence.EntityManager;
 
+import br.com.sematec.financas.modelo.Conta;
 import br.com.sematec.financas.util.JPAUtil;
 
 public class TesteEstadosJPA {
